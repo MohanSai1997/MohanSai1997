@@ -1,7 +1,5 @@
 ### Hi there 👋, I hope you are doing well
 
-- 🌱 I’m currently developing [kubernaml](https://github.com/MohanSai1997/kubernaml) in my free time
-- 👯 I’m looking to contribute on [cortex](https://cortexmetrics.io/)
 - 🤔 I’m looking for help with [Go Programming](https://golang.org/)
 - 💬 Ask me about DevOps and Web Techonologies
 - 📫 How to reach me:- [Twitter](https://twitter.com/MohanSaiTeki), [LinkedIn](https://www.linkedin.com/in/mohan-sai-teki/), [Instagram](https://www.instagram.com/mohansaiteki/?hl=en)
